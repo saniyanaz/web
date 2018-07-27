@@ -1,0 +1,39 @@
+body{
+    background :linear-gradient(orange,blue);
+    height: 100vh;
+}
+
+input{
+    margin-top:25px;
+    border-radius:5px;
+    padding:8px;
+    width:10%;
+    color:black;
+    border:1px solid #d3d3d3;
+    box-shadow: 2px 2px 5px 2px rgba(0,0,0,1);*/
+    
+}
+button{
+     margin-top:15px;
+     border-radius:15px;
+     padding:8px 50px;
+     background:blueviolet;
+     color:white;
+     border:1px solid  orange;
+}
+.heading{
+    color:brown;
+
+    
+
+}
+
+}
+@media only screen and (max-width: 200px)
+{
+   body
+   {
+       background:blue;
+
+   }
+}
